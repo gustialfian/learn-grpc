@@ -1,1 +1,1 @@
-# learn-grpc
+# learn-grpc-go
